@@ -16,4 +16,7 @@ https://github.com/QwenLM/Qwen-Audio
 https://arxiv.org/abs/2311.07919
 
 ## Output
+![Screenshot 2023-11-30 202738](https://github.com/camenduru/Qwen-Audio-Chat-colab/assets/54370274/c190de7b-e8f9-44dd-9f04-d71d8b4ab276)
 
+## Sponsor
+https://modelslab.com
