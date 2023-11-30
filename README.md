@@ -6,7 +6,8 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Qwen-Audio-Chat-colab/blob/main/Qwen_Audio_Chat_colab.ipynb) | Qwen_Audio_Chat_colab (4bit)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Qwen-Audio-Chat-colab/blob/main/Qwen_Audio_Chat_8bit_colab.ipynb) | Qwen_Audio_Chat_8bit_colab (8bit)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Qwen-Audio-Chat-colab/blob/main/Qwen_Audio_Chat_4bit_colab.ipynb) | Qwen_Audio_Chat_4bit_colab (4bit)
 
 ## Main Repo
 https://github.com/QwenLM/Qwen-Audio
